@@ -23,8 +23,8 @@ A demo video or live link will be added soon. Stay tuned !
 
 ## Tech Stack
 
-- **Frontend:** React.js, HTML, Tailwind CSS  
-- **Backend:** PHP, API  
-- **Database:** MySQL  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Laravel 
+- **Database:** MongoDB  
 
 ---
