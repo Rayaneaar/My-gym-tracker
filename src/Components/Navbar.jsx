@@ -52,7 +52,7 @@ export default function NavBar() {
     setIsMenuOpen(false);
   };
   return (
-    <header className="fixed top-0 left-0 w-full z-50  py-2 md:top-4">
+    <header className="fixed top-0 left-0 w-full z-50 px-96 py-2 md:top-4">
       <nav
         className={`flex justify-around mt-4  transition-all duration-500  items-center  w-full md:w-auto md:space-x-6 px-4 py-2 
         ${
