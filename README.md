@@ -1,30 +1,47 @@
 # MyGymTracker App
 
-**MyGymTracker** is a web application that helps users track their workouts, monitor progress, and stay consistent with their fitness goals.  
-It provides an easy-to-use interface to log exercises, manage workout routines, and visualize progress over time.
+**MyGymTracker** is a lightweight web application designed to help users track workouts, manage routines, and visualize progress.  
+The goal is to create a simple, clean fitness tracker while learning teamwork, Git workflow, and full-stack fundamentals.
 
 ---
 
 ## Demo & Gallery
-
-A demo video or live link will be added soon. Stay tuned !
+A demo link or screenshots will be added once the first UI version is complete.
 
 ---
 
-## Features
+## Current Features (Frontend Only)
 
-- **Workout Management** – Add, edit, and delete workouts easily.  
-- **Daily Tracker** – Keep track of exercises done each day.  
-- **Progress Charts** – Visualize strength and endurance growth.  
-- **Custom Exercises** – Create your own workout plans.  
-- **Responsive Design** – Works on desktop, tablet, and mobile.  
+- Workout list (static UI)  
+- Daily tracker layout  
+- Progress charts placeholder  
+- Programmes UI  
+- Responsive design  
+
+---
+
+## Planned Features (Backend Phase)
+
+- User accounts & authentication  
+- Real workout logging  
+- Real progress charts  
+- Custom exercise creation  
+- Full data storage  
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Laravel 
-- **Database:** MongoDB  
+### **Current Phase**
+- **Frontend:** React (Vite), Tailwind CSS  
+
+### **Future Phase**
+- **Backend:** Laravel (planned)  
+- **Database:** MySQL
 
 ---
+
+## Project Status
+We’re currently building the UI and setting up the structure.  
+Backend will be added after learning Laravel.
+
