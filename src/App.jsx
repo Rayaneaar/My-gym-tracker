@@ -1,5 +1,12 @@
 import React from "react";
+import Navbar from './Components/Navbar';
+import LongTestPage from '/src/Pages/testPage.jsx'
 
 export default function App() {
-  return <h1 class="text-3xl font-bold underline">Hello world!</h1>;
+  return (
+    <div>
+      <Navbar/>
+      <LongTestPage/>
+    </div>
+  );
 }
