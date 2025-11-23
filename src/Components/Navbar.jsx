@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState, useEffect } from "react";
 export default function NavBar() {
   const [scrolled, setScrolled] = useState(false);
